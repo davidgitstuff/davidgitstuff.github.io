@@ -40,7 +40,7 @@ h2.colred {
   font-weight: 900;
   font-size: 1em;
   padding:6px 15px;
-  margin:-6px -15px 30px;
+  margin:-6px -15px 10px;
   text-transform:uppercase;
 }
 h2.colblue {
@@ -49,7 +49,7 @@ h2.colblue {
   font-weight: 900;
   font-size: 1em;
   padding:6px 15px;
-  margin:-6px -15px 30px;
+  margin:-6px -15px 10px;
   text-transform:uppercase;
 }
 h2.colgreen {
@@ -58,7 +58,7 @@ h2.colgreen {
   font-weight: 900;
   font-size: 1em;
   padding:6px 15px;
-  margin:-6px -15px 30px;
+  margin:-6px -15px 10px;
   text-transform:uppercase;
 }
 h2.colyellow {
@@ -67,7 +67,7 @@ h2.colyellow {
   font-weight: 900;
   font-size: 1em;
   padding:6px 15px;
-  margin:-6px -15px 30px;
+  margin:-6px -15px 10px;
   text-transform:uppercase;
 }
 h2.colgrey {
@@ -76,13 +76,14 @@ h2.colgrey {
   font-weight: 900;
   font-size: 1em;
   padding:6px 15px;
-  margin:-6px -15px 30px;
+  margin:-6px -15px 10px;
   text-transform:uppercase;
 }
 .greybox {
 background: #eee;
 color: #333;
 font-size: 11px;
+padding-bottom: 15px;
 }
 
 blockquote {
