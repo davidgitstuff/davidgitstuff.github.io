@@ -5,5 +5,3 @@ date: 2016-05-20
 ---
 
 This is the third test post for the site.
-
-{% include footer.html %}

@@ -23,140 +23,82 @@
   <div class="row pad20">
 
     <img src="/img/logo.png" alt="badatwords" style="width:280px;height:60px">
-<br/>
-<br/>
-<br/>
+		<br/>
+		<br/>
+		<br/>
 
-<div class="row">
+			<div class="row">
 
-	  <div class="col-md-12">
-		  <div class="col-md-12 greybox">
-		    <h2 class="colgrey">{{ page.title }}</h2>
-		    <p>
-		      			{{ content }}
-		    </p>
-		  </div>
-	  </div>
+				  <div class="col-md-12">
+					  <div class="col-md-12 greybox">
+					    <h2 class="colgrey">{{ page.title }}</h2>
+					    <p>
+					      			{{ content }}
+					    </p>
+					  </div>
+				  </div>
 
- </div>
+			 </div>
 
- <hr/>
+			 <hr/>
 
-      <div class="row">
+			      <div class="row">
 
-        <div class="col-md-3">
-          <div class="col-md-12 greybox">
-            <h2 class="colred">posts</h2>
-						<ul class="posts">
+			        <div class="col-md-3">
+			          <div class="col-md-12 greybox">
+			            <h2 class="colred">posts</h2>
+									<ul class="posts">
 
-							{% for post in site.posts %}
-								<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-							{% endfor %}
-						</ul>
-          </div>
-        </div>
-
-
+										{% for post in site.posts %}
+											<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+										{% endfor %}
+									</ul>
+			          </div>
+			        </div>
 
 
-        <div class="col-md-3">
-          <div class="col-md-12 greybox">
-            <h2 class="colblue">info</h2>
-						<nav>
-              <ul>
-                  <li><a href="/">Home</a></li>
-                  <li><a href="/about">About</a></li>
-                  <li><a href="/blog">Blog</a></li>
-              </ul>
-            </nav>
-          </div>
-        </div>
 
 
-        <div class="col-md-3">
-          <div class="col-md-12 greybox">
-            <h2 class="colgreen">TEST</h2>
-            <p>
-              Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
-            </p>
-          </div>
-        </div>
+			        <div class="col-md-3">
+			          <div class="col-md-12 greybox">
+			            <h2 class="colblue">info</h2>
+									<nav>
+			              <ul>
+			                  <li><a href="/">Home</a></li>
+			                  <li><a href="/about">About</a></li>
+			                  <li><a href="/blog">Blog</a></li>
+			              </ul>
+			            </nav>
+			          </div>
+			        </div>
 
 
-        <div class="col-md-3">
-          <div class="col-md-12 greybox">
-            <h2 class="colyellow">quote of the month</h2>
-            <blockquote>
-              Do, do not say. Say, but first do.
-            </blockquote>
-            <p>
-            My mate, Andy. What does this even mean?
-            </p>
-          </div>
-        </div>
+			        <div class="col-md-3">
+			          <div class="col-md-12 greybox">
+			            <h2 class="colgreen">TEST</h2>
+			            <p>
+			              Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+			            </p>
+			          </div>
+			        </div>
 
 
-      </div>
-
+			        <div class="col-md-3">
+			          <div class="col-md-12 greybox">
+			            <h2 class="colyellow">quote of the month</h2>
+			            <blockquote>
+			              Do, do not say. Say, but first do.
+			            </blockquote>
+			            <p>
+			            My mate, Andy. What does this even mean?
+			            </p>
+			          </div>
+			        </div>
+							
+			      </div>
 <hr/>
-
-
-
-<div class="row">
-
-<!-- potential nav
-  <div class="col-md-1">
-    <div class="col-md-12 greybox">
-      <h2 class="colgrey">TEST</h2>
-      <p>
-        TEST NAV
-      </p>
-    </div>
-  </div>
--->
-
-  <div class="col-md-12">
-  <div class="col-md-12 greybox">
-    <h2 class="colgrey">{{ page.title }}</h2>
-    <p>
-      			{{ content }}
-    </p>
-  </div>
- </div>
-
-
-<!-- </div>
-    <div class="row">
-      <div class="col-md-12">
-        <br/>
-      </div>
-    </div>
-      <div class="row pad15">
-            <div class="row">
-              <div class="col-md-1 bg-blue">.col-md-1</div>
-              <div class="col-md-1 bg-purple">.col-md-1</div>
-              <div class="col-md-1 bg-red">.col-md-1</div>
-              <div class="col-md-1 bg-orange">.col-md-1</div>
-              <div class="col-md-1 bg-yellow">.col-md-1</div>
-              <div class="col-md-1 bg-green">.col-md-1</div>
-              <div class="col-md-1 bg-blue">.col-md-1</div>
-              <div class="col-md-1 bg-purple">.col-md-1</div>
-              <div class="col-md-1 bg-red">.col-md-1</div>
-              <div class="col-md-1 bg-orange">.col-md-1</div>
-              <div class="col-md-1 bg-yellow">.col-md-1</div>
-              <div class="col-md-1 bg-green">.col-md-1</div>
-            </div>
-      </div> -->
-
-  </div>
-
-
-
-
-
-
+		</div>
 </div>
-
 
 
 
