@@ -41,6 +41,7 @@ h2.colred {
   font-size: 1em;
   padding:6px 15px;
   margin:-6px -15px 15px;
+  text-transform:uppercase;
 }
 h2.colblue {
   background-color:#53C7F1;
@@ -49,6 +50,7 @@ h2.colblue {
   font-size: 1em;
   padding:6px 15px;
   margin:-6px -15px 15px;
+  text-transform:uppercase;
 }
 h2.colgreen {
   background-color:#B0FD5F;
@@ -57,6 +59,7 @@ h2.colgreen {
   font-size: 1em;
   padding:6px 15px;
   margin:-6px -15px 15px;
+  text-transform:uppercase;
 }
 h2.colyellow {
   background-color:#FECE67;
@@ -65,6 +68,7 @@ h2.colyellow {
   font-size: 1em;
   padding:6px 15px;
   margin:-6px -15px 15px;
+  text-transform:uppercase;
 }
 h2.colgrey {
   background-color:#999999;
@@ -73,6 +77,7 @@ h2.colgrey {
   font-size: 1em;
   padding:6px 15px;
   margin:-6px -15px 15px;
+  text-transform:uppercase;
 }
 .greybox {
 background: #eee;
