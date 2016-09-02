@@ -39,8 +39,6 @@ h2.colred {
   color:white;
   font-weight: 900;
   font-size: 1em;
-  padding:6px 15px;
-  margin:-6px -15px 15px;
   text-transform:uppercase;
 }
 h2.colblue {
@@ -48,8 +46,6 @@ h2.colblue {
   color:white;
   font-weight: 900;
   font-size: 1em;
-  padding:6px 15px;
-  margin:-6px -15px 15px;
   text-transform:uppercase;
 }
 h2.colgreen {
@@ -57,8 +53,6 @@ h2.colgreen {
   color:#323232;
   font-weight: 900;
   font-size: 1em;
-  padding:6px 15px;
-  margin:-6px -15px 15px;
   text-transform:uppercase;
 }
 h2.colyellow {
