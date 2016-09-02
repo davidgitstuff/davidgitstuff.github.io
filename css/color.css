@@ -83,6 +83,8 @@ h2.colgrey {
 background: #eee;
 color: #333;
 font-size: 11px;
+padding:6px 15px;
+margin:-6px -15px 15px;
 }
 
 blockquote {
