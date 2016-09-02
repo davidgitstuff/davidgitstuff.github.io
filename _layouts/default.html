@@ -46,8 +46,23 @@
 
         <div class="col-md-3">
           <div class="col-md-12 greybox">
-            <h2 class="colred">TEST</h2>
-            <nav>
+            <h2 class="colred">posts</h2>
+						<ul class="posts">
+
+							{% for post in site.posts %}
+								<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+							{% endfor %}
+						</ul>
+          </div>
+        </div>
+
+
+
+
+        <div class="col-md-3">
+          <div class="col-md-12 greybox">
+            <h2 class="colblue">TEST</h2>
+						<nav>
               <ul>
                   <li><a href="/">Home</a></li>
                   <li><a href="/about">About</a></li>
@@ -55,16 +70,6 @@
                   <li><a href="/blog">Blog</a></li>
               </ul>
             </nav>
-          </div>
-        </div>
-
-
-        <div class="col-md-3">
-          <div class="col-md-12 greybox">
-            <h2 class="colblue">TEST</h2>
-            <p>
-              Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
-            </p>
           </div>
         </div>
 
