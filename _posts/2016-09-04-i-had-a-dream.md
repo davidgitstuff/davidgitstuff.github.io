@@ -1,0 +1,17 @@
+---
+layout: post
+title: "I had a dream"
+date: 2016-09-04
+---
+
+Had a strange dream last night. One I believe to have been born from a conversation with a friend a while back. Don't judge me for the following, dreams are odd, as you probably already know.
+
+It started off with me doing some grocery shopping. Simple, standard, vanilla grocery shopping. Things took a turn for the worse as I bump into a friend. Within seconds of saying hello, he had already started to unwrap a multi-pack of KitKats that were in his basket. Now, this horrifies me. I believe anyone who opens anything before they have handed over money is a thief. I assumed he was doing this to freak me out. If it had ended here, it would be a fairly normal dream playing into my stupid pernickety stance on how shopping should be done. No. He takes a KitKat, breaks off one of the finger-bar things, and proceeds to write MY name on the floor of the supermarket.
+
+Many things go through my mind in situations like this. Maybe I overthink, overanalyse situations and scenarios, but it has served me well up to this point. I began by assessing the situation. Firstly, since it's a dream and my brain isn't going at full whack, I fail to notice how absurd the whole situation is. The KitKat has left a ludicrous amount of chocolate in its wake, I should have spotted this and immediately woken up, but I didn't. My first thought was "people will think this is poo". If I had the choice, I would rather people think I graffiti with KitKat fingers than poo. I grab one of the KitKats and immediately stamp it into the floor, making sure that there is evidence that it is indeed chocolate.
+
+Next step is to think how I can remedy this awful situation in the fastest possible way. I take a water bottle that has magically appeared in my basket and break my own cardinal rule of shopping. I opened it there and then. A deep part of my brain must have been keeping tabs on what is happening and punishes me. Out of the transparent, obviously water-filled water bottle comes a slurry of ketchup. I look towards my friend already enjoying the despair he has created, who is now doing a merry jig and pretending to play an invisible piccolo whilst singing "blood and poo, blood and poo".
+
+Things are now out of control. This is beyond anything I can fix easily myself. These are the situations you need an exit strategy for. Run? Hide? Misdirection? Tempted to go for the latter, I had briefly considered faking some kind of health problem, but ever scrupulous even in dreams, decided it would be disrespectful, as well as potentially dangerous. I opted for run. Dream running really sucks, as everyone has likely experienced. It's like running through treacle. Unfortunately for me, my brain has decided to rearrange the entire local supermarket. It is now like Alice in Wonderland, but with less Mad Hatter, and more elderly shelf-stackers sprinkling chicken nuggets on to the floor akin to the way you would sew seeds. Bonkers.
+
+I realise whilst trying to make my escape that by running I have made myself look guilty of the mess that has been made. I reasoned that I would take responsibility for the ketchup, however I figured whoever is in charge would need to get into contact with some top brass at NASA or something. I had a magic bottle that turned water into ketchup. I had in all likelihood solved some kind of food shortage somewhere so they can't hold it against me, right?
