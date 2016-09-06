@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "good and bad ideas"
-date: 2016-09-04
+date: 2016-09-06
 ---
 
 It is warm today, too warm to safely store food outside. There was a homeless man in town with a bottle that looked suspiciously like it was filled with egg yolks. Firstly, they will spoil quickly, surely? Secondly, why? I'm no expert on these things but isn't the yolk the worst bit of the egg for you? I had considered that maybe he was feeding them to his dog, but I don't think it's part of a normal dog diet. Where did he even get them anyway? So many questions, so few answers. I decided to let it go after briefly checking this wasn't another magical-bottle related dream.
