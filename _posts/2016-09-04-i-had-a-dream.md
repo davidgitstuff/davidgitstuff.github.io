@@ -22,7 +22,7 @@ Knowing that I have vastly overpaid for my magical bottle I start heading to the
 
 I apologise in advance if you are enjoying this thrilling instalment of my dreams, but this is when my brain throws in the old dream wildcard of Jenna Coleman. She is on the other side of a huge glass window separating me from the car park. She is obviously my signal to jump through the window like an action hero to avoid the evil security. Obviously.
 
-This is the first moment my brain really began to question whether I'm dreaming or not. It was happy to let me endure the absurdity and stress of the KitKat, Ketchup and nuggets. As soon as Jen turns up, my brain steps in. Evidently it would be far more absurd for me to have any kind of involvement with Jenna Coleman than to come into possession of a magic bottle.
+This is the first moment my brain really began to question whether I'm dreaming or not. It was happy to let me endure the absurdity and stress of the KitKat, ketchup and nuggets. As soon as Jen turns up, my brain steps in. Evidently it would be far more absurd for me to have any kind of involvement with Jenna Coleman than to come into possession of a magic bottle.
 
 Obviously sensing the reasonable part of my brain taking an interest, the bit that is having a laugh starts going wild as a last hurrah for the night. The glass window shatters without me even touching it, which I'm grateful for as I don't want to be responsible for breaking it, and I'm jumping through whilst wondering if Jen has powers. We could be a team, her with her impressive psychokinetic powers, and me with my bottle that turns water into ketchup. I'm in the car park. Jen is still with me, and thankfully so is the bottle. It's randomly night-time with helicopters circling overhead.
 
