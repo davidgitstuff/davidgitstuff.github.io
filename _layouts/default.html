@@ -48,12 +48,13 @@
 
 			        <div class="col-md-3">
 			          <div class="col-md-12 greybox">
-			            <h2 class="colred">posts</h2>
+			            <h2 class="colred">recent posts</h2>
 									<ul class="posts">
 
-										{% for post in site.posts %}
+										{% for post in site.posts offset: 0 limit: 10  %}
 											<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 										{% endfor %}
+										<li><a href="/blog">all posts</a></li>
 									</ul>
 			          </div>
 			        </div>
