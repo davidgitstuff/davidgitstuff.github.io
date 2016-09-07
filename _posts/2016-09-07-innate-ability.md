@@ -4,7 +4,7 @@ title: "innate ability"
 date: 2016-09-07
 ---
 
-Messi, Federer, Mozart, Einstein and the guy who used to cut my hair in under 2 minutes when I was a kid. Some people seem to have innate talent or ability built in. We all know someone like it, who quiet simply excels at whatever they apply themselves to. Don't get me wrong, these people work hard and spend years perfecting their trades, yet I know given the same amount of practice, ninety-nine percent of people would fall vastly short.
+Messi, Federer, Mozart, Einstein and the guy who used to cut my hair in under 2 minutes when I was a kid. Some people seem to have innate talent or ability built in. We all know someone like it, who quite simply excels at whatever they apply themselves to. Don't get me wrong, these people work hard and spend years perfecting their trades, yet I know given the same amount of practice, ninety-nine percent of people would fall vastly short.
 
 There is something seductive and mystical about such talent, especially when it elevates someone above their peers. What makes the phenomenal tick? Are their brains better? Do they think faster? Does time seem to move slower for them, and can they see more complex patterns? Do they just want it more?
 
