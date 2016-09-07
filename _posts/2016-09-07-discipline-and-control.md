@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "discipline and control"
-date: 2016-09-08
+date: 2016-09-07
 ---
 
 Sounds a bit like something Mr. Miyagi from Karate Kid would come up with. As much as I like to use little lines like this in a throwaway fashion, discipline and control are two things that I think are fundamental in growing up and being a decent human being. Both can be applied to pretty much anything and everything, from physical work to handling emotional stress.
