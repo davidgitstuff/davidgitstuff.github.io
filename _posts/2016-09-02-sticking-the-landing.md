@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sticking the landing"
+title: "sticking the landing"
 date: 2016-09-02
 ---
 
