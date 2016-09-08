@@ -12,6 +12,6 @@ The most beautiful people I know are normal. One girl I know is particularly wel
 
 As for makeup, I really do appreciate the art behind it, especially the fancy pictures some people draw on their nails. However, I have never met a girl I thought was more beautiful with makeup than without. At the risk of sounding absurdly cliché, the true beauty is in the smile, the laugh, the heart, the glint in the eyes and the bare-faced honesty of it all. How could there be anything more beautiful than someone trusting you enough to reveal what they will hide from others, physically and otherwise?
 
-I guess my rants always lead me to some conclusion that is always a surprise even to me, especially when I'm staring through a packet of Haribo intently trying to decipher meaning of all my ridiculous little thoughts.
-
 The likelihood is that everyone who is reading this is the most beautiful person in the world to someone, even if you haven't met that person yet. It sounds like a really tired platitude that is spouted by parents to their ugly children, and it probably is. It also ends up being true.
+
+I guess my rants always lead me to some conclusion that is always a surprise even to me, especially when I'm staring through a packet of Haribo intently trying to decipher meaning of all my ridiculous little thoughts. I guess I never realised how much honesty and trust meant to me.
