@@ -14,4 +14,4 @@ As for makeup, I really do appreciate the art behind it, especially the fancy pi
 
 The likelihood is that everyone who is reading this is the most beautiful person in the world to someone, even if you haven't met that person yet. It sounds like a really tired platitude that is spouted by parents to their ugly children, and it probably is. It also ends up being true.
 
-I guess my rants always lead me to some conclusion that is always a surprise even to me, especially when I'm staring through a packet of Haribo intently trying to decipher meaning of all my ridiculous little thoughts. I guess I never realised how much honesty and trust mean to me.
+I guess my rants always lead me to some conclusion that is always a surprise even to me, especially when I'm staring intently through a packet of Haribo, trying to decipher meaning of all my ridiculous little thoughts. I guess I never realised how much honesty and trust mean to me.
