@@ -4,7 +4,7 @@ title: "haribo rings"
 date: 2016-09-08
 ---
 
-Was looking at the Haribo rings today that come in most of the different mixes offered. I'm not a huge fan of gummy sweets in general, apart from the eggs and hearts, but the rings at least do serve the dual purpose of fashion and sustenance. I confess the idea of wearing a single Haribo ring to important gatherings has crossed my mind on multiple occasions, if only to see who is well versed enough in treats to notice.
+Was looking at the Haribo rings today that come in most of the different mixes offered. I'm not a huge fan of gummy sweets in general, apart from the eggs and hearts, but the rings at least do serve the dual purpose of fashion and food. I confess the idea of wearing a single Haribo ring to important gatherings has crossed my mind on multiple occasions, if only to see who is well versed enough in treats to notice.
 
 Fashion is a weird one to me, as is makeup. The latter I have no personal experience of wearing, and the former I have only dabbled with when I was very young and trying too hard. As I got older, and I'm not that old just yet, I realised its easy to look the part without having to rip holes in, or draw symbols on things. I feel the same way about other people too. Don't mistake my words for saying that you shouldn't care about your appearance, because you definitely should as it is a fundamental part of being social.
 
