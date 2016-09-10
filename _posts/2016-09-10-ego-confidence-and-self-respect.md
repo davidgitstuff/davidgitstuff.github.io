@@ -8,7 +8,7 @@ The three tend to get confused and intermixed sometimes. For me the former is di
 
 The concept of ego for me is purely defensive, obviously self-serving, and an admission of fear of reflection. Ego is fickle, like packing sand into a cracked stone and expecting it to last. The cracks get bigger, the sand washes away, and you are left with broken parts.
 
-The ability to entertain an idea without necessarily agreeing with it is the hallmark of strong foundations. I have been wrong on so many occasions, I'm still getting things wrong today. Often times I would bet the farm that I'm right and whoever I'm speaking to is an idiot, but then have to eat humble pie as I'm seemingly ported to a parallel universe where everything is backwards.
+The ability to entertain an idea without necessarily agreeing with it I think to be the hallmark of strong foundations. So is being able to admit you are wrong. I have been wrong on so many occasions, I'm still getting things wrong today. Often times I would bet the farm that I'm right and whoever I'm speaking to is an idiot, but then have to eat humble pie as I'm seemingly ported to a parallel universe where everything is backwards.
 
 You should always be confident in decisions you make, what you say and how you say it. That should always be a product of experience and knowledge. There is no shame in being new to something or lacking in-depth understanding, but there is shame in pretending.
 
