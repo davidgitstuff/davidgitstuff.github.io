@@ -19,3 +19,7 @@ Self-respect should never be something that you will compromise for others. You 
 Self-awareness, respect, and reflection are such important ingredients for growing better as a person, but as with everything good, it is the harder route to take. They allow you to build confidence over ego, allowing disagreement to not ruin your day. You are able to accept that someone might have a difference of opinion without it being a grave injustice and affront to you and what you believe. They allow you to accept issues and resolve them without it destroying you as a person and better understand the point of view of others.
 
 In short, you should discard ego, maintain confidence and never, ever, compromise your self respect. By and large most people you meet are probably just assholes. Try not to let them ruin your day.
+
+***
+
+Reading through this post worries me that I come across as ridiculously closed minded and guarded. People have told me as much in much more horrible ways in the past. There are people you know, or will meet, that you should trust to such an absolute level that the entirety of this post is moot. Finding that trust is the hard part.
