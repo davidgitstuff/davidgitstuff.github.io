@@ -22,4 +22,4 @@ In short, you should discard ego, maintain confidence and never, ever, compromis
 
 ***
 
-Reading through this post worries me that I come across as ridiculously closed minded and guarded. People have told me as much in much more horrible ways in the past. There are people you know, or will meet, that you should trust to such an absolute level that the entirety of this post is moot. Finding that trust is the hard part. The important ones in your life will change you, and it will always be for the better. Maybe that's how friends become family?
+Reading through this post worries me that I come across as ridiculously closed minded and guarded. People have told me as much in much more horrible ways in the past. There are people you know, or will meet, that you should trust to such an absolute level that the entirety of this post is moot. Finding that trust is the hard part. The important ones in your life will change you, and it will always be for the better.
