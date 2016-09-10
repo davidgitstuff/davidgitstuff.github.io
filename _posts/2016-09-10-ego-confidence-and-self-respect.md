@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ego, confidence and self-respect"
-date: 2016-09-010
+date: 2016-09-10
 ---
 
 The three tend to get confused and intermixed sometimes. For me the former is disposable, the latter indispensable, and confidence is an absolute requirement in moderation.
