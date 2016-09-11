@@ -14,6 +14,6 @@ I guess I find panic and fear amusing, in some weird empathic response to their 
 
 I wonder why we do have these obsessions with ghosts, and I place aliens in this same category. Originally I had assumed it was just simply a search for the unknown, but we don't have people searching for magic or super-powers in the same way. Maybe we do? I should Google this later.
 
-I think the real reason ghosts and aliens have such a strong following is because, as a species, we are so romantically social. The thought that we as humans are alone is not only a scary one, but a sad one. We are constantly reminded every day of how fleeting our existence in this universe is by the science that we do understand, that it makes the hope that there is something more, or someone out there, intoxicating. We get drunk on these ideas.
+I think the real reason ghosts and aliens have such a strong following is because, as a species, we are so romantically social. The thought that we as humans are alone is not only a scary one, but a sad one. We are constantly reminded every day of how fleeting our existence is in this universe by the science that we do understand, that it makes the hope that there is something more, or someone out there, intoxicating. We get drunk on these ideas.
 
 I know that some people are absolutely adamant that ghosts exist, either by virtue of hope or experience. I would never want people to think that I'm disrespectful of these beliefs.
