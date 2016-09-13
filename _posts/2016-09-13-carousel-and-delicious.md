@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "carousel and delicious"
-date: 2016-09-12
+date: 2016-09-13
 ---
 
 I've tossed around the idea of a podcast with my best mate Andy for a long time. When we were in our teens we made a demo CD for the local radio station and dropped it through their mailbox. I like to think that somehow the CD was damaged in transit or they weren't tech savvy enough to load the MP3 saved onto it. The truth is they probably thought we were idiots.
