@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "joie de vivre"
-date: 2016-09-17
+date: 2016-09-19
 ---
 
 It's only when I sit down to write that I realise how boring I am. I can't sit here and tell adrenaline fuelled tales of derring-do, but I'm ok with that. I genuinely love life, and I don't need to skydive or bungee jump to feel alive. The little things in life give me joy.
